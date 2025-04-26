@@ -52,7 +52,7 @@ static std::time_t parse_datetime(const std::string& date_str, const std::string
 
 int main() {
     // Parameters
-    const std::string CSV_PATH = "C:\\Users\\Tim\\Desktop\\Columbia\\Course Material\\25Spring Fin Price Analysis\\Project\\HO-5minHLV.csv";
+    const std::string CSV_PATH = "HO-5minHLV.csv";
     const int    BARS_BACK = 17001;
     const int    L = 12700;
     const double S = 0.010;
