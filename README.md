@@ -1,1 +1,1 @@
-# TradingStrategy_HO_OHLC
+C++ backtestor for Dochian channel Momentum Trading Strategy 
